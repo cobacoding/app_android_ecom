@@ -1,8 +1,8 @@
 package android.developer.riky.ecommerce.Admin;
 
 import android.content.Intent;
-import android.developer.riky.ecommerce.HomeActivity;
-import android.developer.riky.ecommerce.MainActivity;
+import android.developer.riky.ecommerce.Buyers.HomeActivity;
+import android.developer.riky.ecommerce.Buyers.MainActivity;
 import android.developer.riky.ecommerce.R;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

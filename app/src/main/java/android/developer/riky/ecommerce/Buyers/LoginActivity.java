@@ -1,10 +1,11 @@
-package android.developer.riky.ecommerce;
+package android.developer.riky.ecommerce.Buyers;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.developer.riky.ecommerce.Admin.AdminCategoryActivity;
 import android.developer.riky.ecommerce.Model.Users;
 import android.developer.riky.ecommerce.Prevalent.Prevalent;
+import android.developer.riky.ecommerce.R;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,7 +1,8 @@
-package android.developer.riky.ecommerce;
+package android.developer.riky.ecommerce.Buyers;
 
 import android.content.Intent;
 import android.developer.riky.ecommerce.Model.Products;
+import android.developer.riky.ecommerce.R;
 import android.developer.riky.ecommerce.ViewHolder.ProductViewHolder;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;

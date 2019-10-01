@@ -1,8 +1,9 @@
-package android.developer.riky.ecommerce;
+package android.developer.riky.ecommerce.Buyers;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.developer.riky.ecommerce.Prevalent.Prevalent;
+import android.developer.riky.ecommerce.R;
 import android.net.Uri;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -15,7 +16,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

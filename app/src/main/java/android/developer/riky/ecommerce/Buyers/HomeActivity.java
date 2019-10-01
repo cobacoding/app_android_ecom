@@ -1,9 +1,10 @@
-package android.developer.riky.ecommerce;
+package android.developer.riky.ecommerce.Buyers;
 
 import android.content.Intent;
 import android.developer.riky.ecommerce.Admin.AdminMaintainProductsActivity;
 import android.developer.riky.ecommerce.Model.Products;
 import android.developer.riky.ecommerce.Prevalent.Prevalent;
+import android.developer.riky.ecommerce.R;
 import android.developer.riky.ecommerce.ViewHolder.ProductViewHolder;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
